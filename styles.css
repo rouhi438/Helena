@@ -129,7 +129,7 @@ img {
     transform: translateY(0);
   }
 }
-/*=================================================*/
+/*===================Menu==========================*/
 nav a {
   display: block;
   padding: 18px 15px;
@@ -261,6 +261,11 @@ span {
   .container p {
     font-size: 16px;
   }
+}
+/*================About========================*/
+.info {
+  display: flex;
+  justify-content: space-around;
 }
 /*=========== Skills Styles ======================*/
 
